@@ -42,6 +42,5 @@ next-env.d.ts
 
 ../.history/
 .history 
-.history/
-.history/pocketgig/
+
 
